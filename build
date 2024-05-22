@@ -1,0 +1,5 @@
+echo "building..."
+g++-11  Source.cpp -o ./Release/enet -lenet -pthread -lcurl -I./include
+echo "built."
+cd Release
+./enet
