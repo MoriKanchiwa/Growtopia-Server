@@ -1,4 +1,2 @@
--to build type "bash build"
--you will need to install libenet 
-apt install libenet-dev -y
+read.me
 
